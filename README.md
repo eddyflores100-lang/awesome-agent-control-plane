@@ -29,6 +29,7 @@ This list is organized around that lifecycle rather than around any single vendo
 
 - **[SPIFFE/SPIRE](https://github.com/spiffe/spire)** - A CNCF-graduated workload identity framework issuing cryptographic identity to services and, increasingly, to autonomous agents and their workloads.
 - **[WSO2](https://github.com/wso2)** - Identity and access management tooling that treats AI agents as first-class identities, enabling authentication and authorization for agent actions.
+- **[Universal Trust Adapter (UTA)](https://github.com/alicelabs-llc/universal-trust-adapter)** - Trust credential translation protocol ("The USB-C of agent trust") issuing Ed25519-signed Agent Trust Cards via a canonical Universal Trust Schema, with Sigstore Rekor anchoring and a public conformance corpus.
 
 ## 🚧 Policy Enforcement & Runtime Control
 *The core control-plane layer: evaluating and blocking agent tool calls against policy before they execute.*
