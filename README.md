@@ -9,6 +9,10 @@ AI agents don't just generate text anymore — they call tools, run shell comman
 
 This list is organized around that lifecycle rather than around any single vendor or protocol.
 
+**How to use this list:** Inclusion is a discovery aid, not a security endorsement or certification. Verify each project's current maintenance status, license, threat model, deployment model, and compatibility with your own environment before adopting it. A tool appearing here does not mean it has been independently audited.
+
+**Selection and maintenance:** Entries should have a clear, practical role in agent identity, authorization, policy enforcement, traffic mediation, isolation, security testing, or evaluation. Control-plane-adjacent frameworks are separated from direct control-plane components. Projects that become archived or fall outside the scope should be labeled or removed during list reviews.
+
 ## Contents
 
 - [🆔 Identity & Non-Human Access](#-identity--non-human-access)
